@@ -1,0 +1,3 @@
+﻿# AddressablesHelper
+
+Unity module placeholder.
